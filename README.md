@@ -2,5 +2,6 @@
 
 
 
-- 🔭 Em busca da minha primeira oportunidade como Desenvolvedor...
-- 🌱 Aprendendo HTML e CSS ...
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas e em constante evolução como desenvolvedor.
+- ☕ Atualmente focado em aprender Java e construir projetos práticos.
+- 📌 Em busca de oportunidades para aplicar meus conhecimentos e crescer na área de tecnologia!
